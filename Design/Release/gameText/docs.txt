@@ -1,0 +1,15 @@
+gameText.xml
+<language id="en"> 
+<languageOrder> <!-- ordem em que o idioma aparece na barra de idiomas -->
+<volume_text> <!-- texto do volume da flixel -->
+<movecount_text> <!-- texto do contador de movimentos sem limite -->
+<movesleft_text> <!-- texto do contador de movimentos com limite -->
+<hi_score_text> <!-- texto do hi-score -->
+<language_text> <!-- texto ou tooltip da aba de idiomas -->
+<tooltip_mute1> <!-- tooltip do botão de mute (ativo) -->
+<tooltip_mute2> <!-- tooltip do botão de mute (desativado) -->
+<tooltip_undo> <!-- tooltip do botão de undo -->
+<tooltip_retry> <!-- tooltip do botão de undo -->
+<tooltip_next> <!-- tooltip do botão de undo -->
+<tooltip_previous> <!-- tooltip do botão de undo -->
+<tooltip_level_name> <!-- tooltip do nome do level, dizendo que, se clicado, reabre a janela descritiva -->

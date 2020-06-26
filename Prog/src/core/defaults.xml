@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+
+	<constants>
+		<velProjetilBase>400</velProjetilBase>
+		<velGufoBase>200</velGufoBase>
+	</constants>
+	
+	<towerDefaults>
+		<name>UNDEFINED TOWER</name>
+		<damage>1</damage>
+		<hp>1000</hp>
+		<projetileBehavior>0</projetileBehavior>
+		<damageRadius>0</damageRadius>
+		<damageAtBorder>0</damageAtBorder>
+		<velProjetileFactor>1</velProjetileFactor>
+		<shotPeriod>1</shotPeriod>
+		<constructionTime>4</constructionTime>
+		<visibilityRadius>500</visibilityRadius>
+		<cost>200</cost>
+		<upgradesTo>-1</upgradesTo>
+		<description>NO DESCRIPTION</description>
+		<icon>towerIcon0</icon>
+		<spriteSheet>towerGfx0</spriteSheet>
+		<bodyAnimRate>3</bodyAnimRate>
+		<headIndex>4</headIndex>
+		<headAnimRate>3</headAnimRate>
+		<headAnimBehavior>1</headAnimBehavior>
+		<wreckIndex>5</wreckIndex>
+		<wreckAnimRate>3</wreckAnimRate>
+		<shotSound>shotSnd0</shotSound>
+		<buildReadySound>buildSnd0</buildReadySound>
+		<wreckSound>wreckSnd0</wreckSound>
+		<loopSound>loopSnd0</loopSound>
+	</towerDefaults>
+	
+	<gufoDefaults>
+		<name>UNDEFINED GUFO</name>
+		<hp>8</hp>
+		<walkingSpeed>1</walkingSpeed>
+		<climbingSpeed>1</climbingSpeed>
+		<cost>20</cost>
+		<reward>10</reward>
+		<jumps>0</jumps>
+		<walksOnWater>0</walksOnWater>
+		<breaksWalls>0</breaksWalls>
+		<description>NO DESCRIPTION</description>
+		<explodesWhenDead>0</explodesWhenDead>
+		<explosionDamageOnGufos>4</explosionDamageOnGufos>
+		<explosionDamageOnTowers>1000</explosionDamageOnTowers>
+		<explosionFriendlyFire>0</explosionFriendlyFire>
+	</gufoDefaults>
+	
+
+</data>

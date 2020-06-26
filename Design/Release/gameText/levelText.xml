@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<level id="0">
+		<level_name_en>Pacific</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>This guy's in desperate need of help! Take him to the boat ladders! (Boats will only move back and forth)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="1">
+		<level_name_en>Sultana</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Beware, beware, BEWARE! A shark is about to ruin the rescue! Sharks can be moved, but will eat castaways in front of them.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="2">
+		<level_name_en>Stonewall</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>The less movements you make in a level, the more stars you get; max 3 stars per level.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="3">
+		<level_name_en>Northfleet</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>An isle! Castaways will be safe there! Nevertheless, only mr. Norris can move isles around, and you are NOT him.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="4">
+		<level_name_en>Byzantin</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Drown your sorrows. You can always UNDO your last move! (but that won't help you with the scores)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="5">
+		<level_name_en>Wah Yeung</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>A smooth sea never made skilled mariner. (English Proverb)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="6">
+		<level_name_en>Utopia</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>In shipwrecks, mama told us not to move without adults nearby.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="7">
+		<level_name_en>Reina Regenta</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>“I can never understand why God would have spared a poor Finnish girl when all those rich people drowned.” (Ms. Anna Turja Lundi, Titanic survivor)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="8">
+		<level_name_en>General Slocum</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>One girl, two adults.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="9">
+		<level_name_en>	Matsu Maru</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Before the famous Titanic tragedy, there were other ten documented shipwrecks with over 1000 vitims each. Whoa nelly!</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="10">
+		<level_name_en>Liberté</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Failure is not an option."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="11">
+		<level_name_en>Principe de Asturies</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>introducing mines: move it, destroying all adjacent tiles (but islands - they´re not Mr. Norris too). Awesome awesomeness!</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="12">
+		<level_name_en>Empress of Ireland</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"I´m sick of this motherf&$#@ sharks on this motherf&$#@ ocean!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="13">
+		<level_name_en>Titanic</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"I'm the king of the world!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="14">
+		<level_name_en>Lusitania</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>introducing vulcanoes: believe me, these islands won't save people.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="15">
+		<level_name_en>Provence</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Danger? Hah! I walk on the wild side. I laugh in the face of danger. Ha ha ha ha!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="16">
+		<level_name_en>Mont Blanc, Imo</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>introducing shark repeller: will a) turn adjacent sharks 180 degrees after moved & b) Annoy 'em as hell!</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="17">
+		<level_name_en>Princess Sophia</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Did you know? Three thousand men labored for 2 years to complete what was the largest man made moving object in the world: the Titanic.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="18">
+		<level_name_en>Chaonia</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>An official letter of the White Star Line, speaking of the firm's newly built flagship, the Titanic, launched in 1912, declared that the ship was unsinkable.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="19">
+		<level_name_en>Valbanera</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Two workers lost their lives in construction accidents during Titanic's building, which was actually a good safety record compared to many others in this era.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="20">
+		<level_name_en>Hong Kong</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Titanic´s total cost in 1912 accumulated to approximately 7.5 million dollars. in today´s currency, it is equivalent to 400 million bucks!</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="21">
+		<level_name_en>Principessa Mafalda</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>You now have a limited amount of moves! "Are you sure this is a life guard initiation thing?"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="22">
+		<level_name_en>Morro Castle</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Hasta la Vista, baby!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="23">
+		<level_name_en>Thetis</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Well, Clarice, have the ships stopped sinking?"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="24">
+		<level_name_en>Truxtun and Pollux</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>The White Star Line's London offices, named Oceanic House, still exist today. They are just a street off Trafalgar Square, and one can still see the name on the building over the entrances.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="25">
+		<level_name_en>Curacao</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"I am Jack's smirking shipwreck."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="26">
+		<level_name_en>Grandcamp</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>But more wonderful than the lore of old men and the lore of books is the secret lore of ocean. (H. P. Lovecraft)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="27">
+		<level_name_en>Manchuria</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>If you want to build a ship, don't drum up people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea. (Antoine de Saint-Exupery)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="28">
+		<level_name_en>Kiangya</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"The ocean´s gonna make him an offer he can't refuse."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="29">
+		<level_name_en>Toya Maru</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"You're gonna need a bigger boat."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="30">
+		<level_name_en>Andrea Doria and Stockholm</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>More shipwreck trivia: The chinese ship Tag Sing has sinked by colliding against a coral reef, causing more than 1600 victims. The year? 1822. </level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="31">
+		<level_name_en>Constellation</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Say Hello to my little friend!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="32">
+		<level_name_en>Dara</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Scuttling is the act of deliberately sinking a ship. This once was a common cause of shipwrecks, and do you want to know why? I´ll tell you why next.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="33">
+		<level_name_en>Eurydice</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>...to prevent the ship from being captured by an enemy force, as a blockship to restrict navigation through a channel or within a harbor, or to provide an artificial reef for divers and marine life. Sadly, cellphones with digital cameras were not popular back in the XIX century.</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="34">
+		<level_name_en>Tamponas II</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Look out honey, ´cause I´m using technology!"</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="35">
+		<level_name_en>10th of Ramadan</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>We're all water from diff'rent rivers, that's why it's so easy to meet. We're all water in this vast, vast ocean: some day we'll evaporate together. (Yoko Ono)</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="36">
+		<level_name_en>Dona Paz and Victor</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Will all great Neptune's ocean wash this blood clean from my hand? No, this my hand will rather the multitudinous seas incarnadine, making the green one red. (Shakespeare) </level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="37">
+		<level_name_en>Salem Express</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"I'm not going to waste my time arguing with a man who's lining up to be a hot lunch."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="38">
+		<level_name_en>Neptune</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>"Toto, I've a feeling we're not in Kansas anymore."</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="39">
+		<level_name_en>Pride of la Gonave</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>If I were dropped out of a plane into the ocean and told the nearest land was a thousand miles away, I'd still swim. And I'd despise the one who gave up. (Abraham Maslow) </level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+	<level id="40">
+		<level_name_en>15CASTAWAY</level_name_en>
+		<level_name_pt>null</level_name_pt>
+		<level_name_it>null</level_name_it>
+		<level_name_es>null</level_name_es>
+		<level_name_fr>null</level_name_fr>
+		<level_name_de>null</level_name_de>
+		<level_description_en>Audio, art and design by Caio | Code by Brizoman | Produced by Arthur Allievi | Additional art by Kojiio | Text by Ju Malinverni</level_description_en>
+		<level_description_pt>null</level_description_pt>
+		<level_description_it>null</level_description_it>
+		<level_description_es>null</level_description_es>
+		<level_description_fr>null</level_description_fr>
+		<level_description_de>null</level_description_de>
+	</level>
+</data>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- XML modificador de level. O level ID deve ser inferido do
+nome do arquivo. Acompanha arquivo de matriz de level design
+respectivo, presente na mesma pasta que esse documento -->
+<!-- xml e data copiadas do TowersScripting.xml (Gufos) em 20/11/10 -->
+
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!-- Numero identificador do level -->
+<order>23</order>
+
+<!-- Nome do level, que aparecera na janela introdutoria de 
+fase e no topo da tela in-game, abaixo do numero do level -->
+<name>UNNAMED</name>
+
+
+<!-- Descricao dos objetivos e dificuldades da fase. Usada
+na janela introdutoria de fase -->
+<description>NO DESCRIPTION</description>
+
+
+<!-- Quantidade de bonecos salvos necessaria para passar de 
+fase. Geralmente o mesmo numero de bonecos, exceto em fases
+que permitem alguns obitos -->
+<rescueQuota>2</rescueQuota>
+
+
+<!-- Numero de movimentos de que o jogador dispoe no
+inicio do level. ZERO para infinitos (fazendo com que o texto
+do contador mude de "moves left" para "move count" -->
+<movesLeft>24</movesLeft>
+
+
+<!-- Numero de movimentos que, se nao excedido, garante ao 
+jogador tres estrelas. No mundo perfeito, equivale ao numero
+minimo de movimentos necessario para completar o level sem 
+obitos de bonequinhos -->
+<topRankQuota>20</topRankQuota>
+
+
+<!-- Numero de movimentos que, se nao excedido, garante ao 
+jogador duas estrelas -->
+<secondRankQuota>22</secondRankQuota>
+
+</data>

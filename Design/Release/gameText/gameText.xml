@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language id="en">
+		<languageOrder>0</languageOrder>
+		<volume_text>Volume</volume_text>
+		<movecount_text>Move Count:</movecount_text>
+		<movesleft_text>Moves Left:</movesleft_text>
+		<hi_score_text>HI-SCORE:</hi_score_text>
+		<language_text>Choose language</language_text>
+		<tooltip_mute1>Mute all sounds</tooltip_mute1>
+		<tooltip_mute2>Unmute all sounds</tooltip_mute2>
+		<tooltip_undo>Undo last move (move counter won't change)</tooltip_undo>
+		<tooltip_retry>Reset level</tooltip_retry>
+		<tooltip_next>Next level</tooltip_next>
+		<tooltip_previous>Previous level</tooltip_previous>
+		<tooltip_level_name>Click to read level description</tooltip_level_name>
+	</language>
+	<language id="pt">
+		<languageOrder>1</languageOrder>
+		<volume_text>Volume</volume_text>
+		<movecount_text>Peças movidas:</movecount_text>
+		<movesleft_text>Mov. Restantes:</movesleft_text>
+		<hi_score_text>RECORDE:</hi_score_text>
+		<language_text>Escolha a língua</language_text>
+		<tooltip_mute1>Sem sons</tooltip_mute1>
+		<tooltip_mute2>Com sons</tooltip_mute2>
+		<tooltip_undo>Desfazer último movimento</tooltip_undo>
+		<tooltip_retry>Recomeçar fase</tooltip_retry>
+		<tooltip_next>Próxima fase</tooltip_next>
+		<tooltip_previous>Fase anterior</tooltip_previous>
+		<tooltip_level_name>Clique para ler a descrição da fase</tooltip_level_name>
+	</language>
+	<language id="it">
+		<languageOrder>2</languageOrder>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="es">
+		<languageOrder>3</languageOrder>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="fr">
+		<languageOrder>4</languageOrder>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="de">
+		<languageOrder>5</languageOrder>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+</data>

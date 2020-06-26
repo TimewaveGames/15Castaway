@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<language id="0">
+		<language_name>en</language_name> <!-- so pra ficar organizado -->
+		<volume_text>"necas!"</volume_text> texto <!-- texo do volume da flixel -->
+		<movecount_text>"necas!"</movecount_text> <!-- texto do contador de movimentos sem limite -->
+		<movesleft_text>"necas!"</movesleft_text> <!-- texto do contador de movimentos com limite -->
+		<hi_score_text>"necas!"</hi_score_text> <!-- texto do hi-score -->
+		<language_text>"necas!"</language_text> <!-- texto ou tooltip da aba de idiomas -->
+		<tooltip_mute1>"necas!"</tooltip_mute1> <!-- tooltip do botão de mute (ativo) -->
+		<tooltip_mute2>"necas!"</tooltip_mute2> <!-- tooltip do botão de mute (desativado) -->
+		<tooltip_undo>"necas!"</tooltip_undo> <!-- tooltip do botão de undo -->
+		<tooltip_retry>"necas!"</tooltip_retry> <!-- tooltip do botão de undo -->
+		<tooltip_next>"necas!"</tooltip_next> <!-- tooltip do botão de undo -->
+		<tooltip_previous>"necas!"</tooltip_previous> <!-- tooltip do botão de undo -->
+		<tooltip_level_name>"necas!"</tooltip_level_name> <!-- tooltip do nome do level, dizendo que, se clicado, reabre a janela descritiva -->
+	</language>
+	<language id="1">
+		<language_name>pt</language_name>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="2">
+		<language_name>it</language_name>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="3">
+		<language_name>es</language_name>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="4">
+		<language_name>fr</language_name>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+	<language id="5">
+		<language_name>de</language_name>
+		<volume_text>"necas!"</volume_text>
+		<movecount_text>"necas!"</movecount_text>
+		<movesleft_text>"necas!"</movesleft_text>
+		<hi_score_text>"necas!"</hi_score_text>
+		<language_text>"necas!"</language_text>
+		<tooltip_mute1>"necas!"</tooltip_mute1>
+		<tooltip_mute2>"necas!"</tooltip_mute2>
+		<tooltip_undo>"necas!"</tooltip_undo>
+		<tooltip_retry>"necas!"</tooltip_retry>
+		<tooltip_next>"necas!"</tooltip_next>
+		<tooltip_previous>"necas!"</tooltip_previous>
+		<tooltip_level_name>"necas!"</tooltip_level_name>
+	</language>
+</data>
